@@ -55,3 +55,61 @@ If the justice of the peace of the precinct in which the crime is alleged to hav
 *Latest version*
 
 When a change of the place of trial is ordered, the justice of the peace shall transmit to the justice of the peace before whom the trial is to be had all original papers in the proceeding or action, with a certified copy of the minutes of his proceedings. Upon receipt thereof, the justice of the peace to whom they are delivered shall proceed with the trial as if the proceeding or action had been originally commenced in his court.
+
+---
+
+## A.R.S. § 22-311. Commencement of Action; Arrest or Summons; Examination of Witnesses
+
+*Latest version*
+
+**A.** All proceedings and actions before justice courts for public offenses of which such courts have jurisdiction shall be commenced by complaint, under oath, setting forth the offense charged, with such particulars of time, place, person and property as to enable the defendant to understand distinctly the character of the offense complained of and to answer the complaint.
+
+**B.** If the justice of the peace is satisfied that the offense complained of was committed by the person charged, the justice shall issue a summons or a warrant of arrest. Before issuing a summons or warrant of arrest on a complaint the justice may subpoena and examine witnesses as to the truth of the complaint.
+
+---
+
+## A.R.S. § 22-312. Criminal Court Record
+
+*Latest version*
+
+A justice of the peace shall keep a criminal court record and shall enter each action and proceeding of the court in the court record.
+
+---
+
+## A.R.S. § 22-313. Procedure
+
+*Latest version*
+
+The rules of criminal procedure for the superior court shall apply to justice courts so far as applicable and when not otherwise prescribed.
+
+---
+
+## A.R.S. § 22-314. Bail; Preparation of Schedule; Collection; Civil Deposits
+
+*Latest version*
+
+**A.** The defendant, at any time after arrest and before conviction, shall be eligible for bail, subject to section 13-3961 and any applicable rules adopted by the supreme court.
+
+**B.** The justice of the peace shall:
+
+1. Prepare or adopt for use a schedule of traffic violations not involving the death of a person or any felony traffic offense, listing specific bail for each violation.
+
+2. Permit the collection of bail, or acceptance of proper bond in lieu of bail, in accordance with the foregoing schedule and collect that bail, for and on behalf of the court.
+
+**C.** The justice of the peace shall prepare or adopt for use a schedule of civil traffic violations, listing a specific deposit for each violation. The justice of the peace shall ensure that proper deposits for civil traffic violations are accepted for and on behalf of the court.
+
+---
+
+## A.R.S. § 22-317. Plea of Not Guilty
+
+*Latest version*
+
+Upon a plea other than a plea of guilty, if no party demands a trial by jury, and a postponement or change of venue is not granted, the court shall proceed to try the action.
+
+---
+
+## A.R.S. § 22-320. Trial by Jury
+
+*Latest version*
+
+A trial by jury shall be had if demanded by either the state or defendant if otherwise authorized by law.
