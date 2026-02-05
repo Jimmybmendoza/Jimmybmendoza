@@ -21,3 +21,37 @@
 1. Within the precinct.
 
 2. Within a county park that includes a body of water located in two counties if one county has a population of more than three million persons and one county has a population of more than two hundred thousand persons but less than three hundred thousand persons and the precinct includes some part of the county park.
+
+---
+
+## A.R.S. § 22-302. Venue When Justice Unable to Act
+
+*Latest version*
+
+If the justice of the peace of the precinct in which the crime is alleged to have been committed is absent therefrom, or for any reason is unable to act, the prosecution may be commenced in any precinct within the county designated by the justice of the peace or in the absence of the justice of the peace in any precinct designated by the presiding judge of the superior court.
+
+---
+
+## A.R.S. § 22-303. Change of Venue; Grounds
+
+*Latest version*
+
+**A.** If either party in an action pending in a justice court, after the complaint has been filed, files an affidavit in the action alleging any of the grounds specified in subsection B of this section and gives five days' notice to the opposite party, the venue may be changed as provided by law.
+
+**B.** Grounds that may be alleged for change of venue are:
+
+1. There exists in the precinct where the action is pending so great a prejudice against the party requesting a change of venue that the party cannot obtain a fair and impartial trial.
+
+2. The convenience of witnesses and the ends of justice would be promoted by the change.
+
+3. The court determines that there is other good and sufficient cause.
+
+**C.** The court shall determine the truth and sufficiency of the grounds, but a decision refusing the change of venue is appealable.
+
+---
+
+## A.R.S. § 22-304. Transmittal of Papers Upon Change of Venue; Trial
+
+*Latest version*
+
+When a change of the place of trial is ordered, the justice of the peace shall transmit to the justice of the peace before whom the trial is to be had all original papers in the proceeding or action, with a certified copy of the minutes of his proceedings. Upon receipt thereof, the justice of the peace to whom they are delivered shall proceed with the trial as if the proceeding or action had been originally commenced in his court.
