@@ -1,0 +1,23 @@
+# Arizona Revised Statutes - Title 22: Justices of the Peace and Justice Courts
+
+## A.R.S. § 22-301. Jurisdiction of Criminal Actions
+
+*Latest version*
+
+**A.** The justice courts shall have jurisdiction of the following offenses committed within their respective precincts:
+
+1. Misdemeanors and criminal offenses punishable by a fine not exceeding two thousand five hundred dollars, or imprisonment in the county jail for not to exceed six months, or by both a fine and imprisonment. Any penalty or other added assessments levied shall not be considered as part of the fine for purposes of determining jurisdiction. The amount of restitution, time payment fees or incarceration costs shall not be considered as part of the fine for purposes of determining jurisdiction.
+
+2. Felonies, but only for the purpose of commencing action and conducting proceedings through preliminary examinations and holding the defendant to answer to the superior court or to discharge the defendant if it appears that there is not probable cause to believe the defendant is guilty of an offense.
+
+**B.** In a county with a population of more than two million persons, the justice of the peace of each justice precinct shall have original jurisdiction to hear misdemeanor offenses as set forth in subsection A, paragraph 1 of this section that occur within the respective precinct in which the justice of the peace is elected unless either of the following applies:
+
+1. The offense is filed by a municipal officer or agent in a municipal court.
+
+2. The offense is consolidated with a felony offense in the complaint, information or indictment.
+
+**C.** For the purposes of subsection A or B of this section, an offense is committed within the precinct of a justice court if conduct constituting any element of the offense or a result of such conduct occurs either:
+
+1. Within the precinct.
+
+2. Within a county park that includes a body of water located in two counties if one county has a population of more than three million persons and one county has a population of more than two hundred thousand persons but less than three hundred thousand persons and the precinct includes some part of the county park.
