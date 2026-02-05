@@ -113,3 +113,71 @@ Upon a plea other than a plea of guilty, if no party demands a trial by jury, an
 *Latest version*
 
 A trial by jury shall be had if demanded by either the state or defendant if otherwise authorized by law.
+
+---
+
+## A.R.S. § 22-321. Challenges to Jury and Jurors
+
+*Latest version*
+
+**A.** The challenges taken by either party to the panel of jurors or to any individual juror shall be as on trials in the superior court.
+
+**B.** The challenge shall in all cases be tried by the court.
+
+---
+
+## A.R.S. § 22-322. Oath of Jury
+
+*Latest version*
+
+When the jury has been selected, the justice of the peace shall administer to it substantially the following oath: "Do you swear or affirm that you will give careful attention to the proceedings, abide by the court's instructions and render a verdict in accordance with the law and evidence presented to you, so help you God".
+
+---
+
+## A.R.S. § 22-323. Trial Before Jury; Charging Jury on Facts Prohibited
+
+*Latest version*
+
+**A.** After the jury is sworn, it shall hear the proceedings which shall be in public and in the presence of defendant.
+
+**B.** The court shall decide all questions of law which arise in the course of the trial, but shall not charge the jury with respect to matters of fact.
+
+---
+
+## A.R.S. § 22-324. Verdict of Jury; Officer in Charge of Jury During Deliberation
+
+*Latest version*
+
+**A.** After hearing the evidence of the offense of which defendant is charged, the jury may give its verdict in court or may retire for consideration.
+
+**B.** If the jury does not immediately agree, an officer shall be sworn to take charge of the jury as in trials of criminal actions in the superior court.
+
+---
+
+## A.R.S. § 22-325. Verdict; Entry; Several Defendants; Partial Verdict
+
+*Latest version*
+
+**A.** The verdict of the jury shall be either "guilty" or "not guilty."
+
+**B.** When the jury has agreed on its verdict, it shall deliver the verdict publicly to the court who shall enter or cause it to be entered in the minutes.
+
+**C.** When several defendants are tried together, if the jury cannot agree upon a verdict as to all defendants, it may render a verdict as to those in regard to whom it does agree, on which a judgment shall be entered accordingly, and the action as to the other defendants may be tried by another jury.
+
+---
+
+## A.R.S. § 22-326. Discharge of Jury; Retrial of Action
+
+*Latest version*
+
+The jury shall not be discharged after the action is submitted to it until it has agreed upon and rendered its verdict, unless for good cause the court sooner discharges it. If the jury is discharged, the court may proceed again to the trial, in the same manner as upon the first trial, until a verdict is rendered.
+
+---
+
+## A.R.S. § 22-327. Acquittal; Discharge of Defendant; Payment of Costs by Complainant When Prosecution Malicious
+
+*Latest version*
+
+**A.** When defendant is acquitted either by the court or the jury, he shall be immediately discharged.
+
+**B.** If the court certifies in the minutes that the prosecution was malicious or without probable cause, it may order the complainant to pay the costs of the action, or to give satisfactory security by a written undertaking, with one or more sureties, to pay the costs within thirty days after the trial. If the complainant does not pay the costs or give the security, the court may enter judgment against him for the amount thereof, which may be enforced as a judgment in a civil action.
